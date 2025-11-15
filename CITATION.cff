@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Gradient Boosted Tree model for EEG-based classification of lower-body movements and states"
+authors:
+  - family-names: "Pery"
+    given-names: "Hod"
+year: 2025
+version: "1.0.0"
+doi: ""
+url: "https://github.com/hodpery/Gradient-Boosted-Tree-model-for-EEG-based-classification-of-lower-body-movements-and-states"
+message: "If you use this dataset or code, please cite this repository."
+abstract: >
+  EEG dataset and machine learning pipeline using discrete wavelet 
+  transform (DWT) statistical features and a Gradient Boosted Tree 
+  model for classifying six lower-body movements: walking, spinning 
+  left, spinning right, standing–sitting transition, resting sit, 
+  and resting stand.
