@@ -146,7 +146,10 @@ python scripts/model_training_for_optimize.py
 If you use this dataset or code, please cite:
 
 ```
-Pery, H. (2025). EEG Lower-Body Movement Dataset and ML Classification Pipeline. GitHub Repository.
+Pery, H. (2025). Gradient Boosted Tree model for EEG-based classification 
+of lower-body movements and states. GitHub Repository. 
+https://github.com/hodpery/Gradient-Boosted-Tree-model-for-EEG-based-classification-of-lower-body-movements-and-states
+
 ```
 
 ---
