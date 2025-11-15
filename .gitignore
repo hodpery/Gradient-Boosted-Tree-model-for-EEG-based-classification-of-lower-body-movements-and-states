@@ -1,0 +1,38 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+venv/
+.env
+*.log
+
+# ML artifacts
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+
+# Results
+results/*.tmp
+results/*.npy
+results/*.npz
+results/*.mat
+
+# Dataset (avoid uploading huge files accidentally)
+dataset/raw/
+dataset/windows_2s/
+dataset/processed/
+*.csv
+
+# Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build files
+dist/
+build/
+*.egg-info/
