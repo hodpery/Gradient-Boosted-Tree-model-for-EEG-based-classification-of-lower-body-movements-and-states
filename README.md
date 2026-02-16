@@ -46,8 +46,8 @@ Each movement was recorded in **30 sessions**, each lasting **60 seconds**:
 6. Spin Right  
 
 Total data:  
-- 180 recordings  
-- 10,800 seconds of EEG  
+- 600 recordings  
+- 36,000 seconds of EEG  
 
 CSV includes timestamp, counter, and 14 µV EEG channels.
 
@@ -69,7 +69,11 @@ Extracted features:
 - Energy  
 - Entropy  
 - Mean  
-- Standard deviation  
+- Standard deviation
+
+Extra features:
+- bend power μ (8–13 Hz) and β (13–30 Hz)
+- FBCSP
 
 ---
 
